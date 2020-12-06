@@ -1,0 +1,7 @@
+hongtian:
+  api:
+    auth: 'weed'
+    packages: {"包1":"com.hongtian.controller1","包2":"com.hongtian.controller2"}
+    title: 'test'
+    version: '1.0'
+    description: '描述'
